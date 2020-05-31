@@ -19,6 +19,11 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       />
       <article>
         <header>
+          <a
+            style={{
+              color: 'pink'
+            }}
+          ></a>
           <h1
             style={{
               marginTop: rhythm(1),

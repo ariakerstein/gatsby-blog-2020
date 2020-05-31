@@ -3,12 +3,12 @@ module.exports = {
     title: `Magic Prose`,
     author: {
       name: `Ari Akerstein`,
-      summary: `Night prose`
+      summary: ``
     },
-    description: `The blog of Ari Akerstein`,
+    description: ``,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `arisamuel`
+      twitter: `ariakerstein`
     }
   },
   plugins: [
