@@ -21,7 +21,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         <header>
           <a
             style={{
-              color: 'pink'
+              color: 'orangered'
             }}
           ></a>
           <h1
