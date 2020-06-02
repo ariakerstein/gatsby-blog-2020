@@ -58,7 +58,7 @@ const Bio = () => {
       />
       <p>
        <strong>{author.name}</strong> {author.summary} .  
-       Night writings
+       Night writings | Essays
         {`  `}
         {/* <a href={`http://chemolog.com/`}>
           chemolog
