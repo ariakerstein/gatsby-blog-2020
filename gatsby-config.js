@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Magic Prose`,
+    title: `Night Prose`,
     author: {
       name: `Ari Akerstein`,
       summary: ``
