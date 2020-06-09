@@ -2,6 +2,7 @@
 title: 2009 Boston Marathon Race Report
 date: 2009-04-24T07:55:57+00:00
 permalink: /2009-boston-marathon-race-report/
+description: race report for the 2009 boston marathon
 categories:
   - Running
 ---
