@@ -14,14 +14,14 @@ My old mentor at UCSF, Dr. Edmond Eger (may he rest in peace) showed me how a pl
 
 ### Exhaustion by going deep
 
-This is the best type in my opinion. You've focused so long and so hard that you're just spent. But you'll recharge and continue tomorrow. One more turn on the flywheel. This is how breakthroughs happen. Be patient. 
+This is the best type of exhaustion. You've focused so long and so hard that you have no juice left. But you'll recharge and continue tomorrow. Count that as one more turn on the flywheel. This is how breakthroughs happen. Be patient. 
 
 ### Exhaustion by doing nothing much
 You spin like the pinball of death on your computer - trying desperately to connect to some - any - signal! It’s debilitating. It can also lead to the next type…
 
 ### Exhaustion by demoralization
 
-This is actually the worst. It's what happens when you hang out too long in the zones that are NOT going deep (least if you're me). 
+This is the worst. It's what happens when you hang out too long in the zones that are NOT going deep (least if you're me). 
 
-### The antidote is to claim your buoyancy. 
-I grew up in the Narragansett bay. When I would sail as a kid I always took the buoys for granted. They were these landmarks in an otherwise ceaseless movement of water. People are like this - at least the ones you want to look to. They manage emotions and can remain steadily floating atop an endlessly turbulent surface of waves and movement.  
+### Claim your buoyancy 
+I grew up in the Narragansett bay. When I would sail as a kid I always took the buoys for granted. They were these landmarks in an otherwise ceaseless movement of water. People are like this - at least the ones you want to look to. They manage emotions and can remain steadily floating atop an endlessly turbulent surface of waves and movement. Possible mantra: be the buoy! 
