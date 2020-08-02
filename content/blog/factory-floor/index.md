@@ -1,10 +1,12 @@
 ---
 title: Factory Floor
-date: 2020-05-01
+date: {}
 author: ariakerstein
 layout: single
 permalink: /the-factory-floor/
-categories: [Fiction ]
+categories:
+  - Fiction
+published: true
 ---
 
 The cursor pulses hot green against the black terminal. A few quick taps execute the script. I watch the simulation unfold on the screen. Then, a stocatto barrage of keystrokes: <i>Simulation number 39...no change from 38...The pX protein displays kinetics suggesting diffusion as the primary mechanic of nucleus traversal. In the presence of DNA breaks the molecular kinetics change and the molecule activates a cascade catalyzing repair complex formation.....</i>
@@ -73,7 +75,7 @@ A deep peace overcomes me. Completed racks stack one onto the next on the table.
 “I mean that I like to build things” I said.
 “That’s good, kid” he said.
  
-A loud buzz shakes me - my timer. I stare at the infinitely blinking cursor. I sit back up and continue working. 
+A loud buzz shakes me - my timer. I stare at the blinking cursor. I sit back up and continue working. 
 
 
 *<i>I hate windows here. They threaten my excitement by showing me something better and reveal the flaws in this place, in my own thinking. The green shrubbery that Pawtucket in summer offers titillates me (with fantasies of playing ball, bar-b-que, summer love) in ways that become infinitely more agitating than the fumes and noises - to those at least I can acclimate. But I can never adjust to the juxtaposition of fantasy vs. industry. It's one or the other. To have both simultaneously introduces a small tear in an otherwise nicely sealed working-is-great summer worldview. Windows here fill me with cold anxiety for all I'm missing out on. No tweleve year old should be doing these jobs. I should be having fun with kids my own age, and etc.</i>
