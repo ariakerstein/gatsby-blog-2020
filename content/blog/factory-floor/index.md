@@ -1,6 +1,6 @@
 ---
 title: Factory Floor
-date: {}
+date: 2019-06-20
 author: ariakerstein
 layout: single
 permalink: /the-factory-floor/
