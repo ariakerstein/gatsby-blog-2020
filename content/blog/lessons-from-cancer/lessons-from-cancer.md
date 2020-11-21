@@ -2,7 +2,7 @@
 title: Lessons From Chemo
 date: 2020-05-01
 permalink: /lessons-from-chemo/
-categories: [Chemolog, Family]
+categories: ["Chemolog", "Family"]
 
 ---
 What are the psychological learnings can I apply from battling cancer to handling the Covid situation?

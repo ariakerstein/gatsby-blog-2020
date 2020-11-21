@@ -3,8 +3,7 @@ title: 2009 Boston Marathon Race Report
 date: 2009-04-24T07:55:57+00:00
 permalink: /2009-boston-marathon-race-report/
 description: race report for the 2009 boston marathon
-categories:
-  - Running
+categories: ["Running"]
 ---
 The day begins at 4:30. I must have eaten more than I can remember the previous night. I cooked up a vat of pasta, garlic bread and salad for a few folks including some fellow K-star runners. We watch chariots of fire on the 40" screen while shoveling the food down.
 
