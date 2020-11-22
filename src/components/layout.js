@@ -60,9 +60,8 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with love...
+        © {new Date().getFullYear()}, Building products with love
         {` `}
-        <a href="https://www.gatsbyjs.org">and Gatsby</a>
       </footer>
     </div>
   )
