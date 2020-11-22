@@ -1,6 +1,6 @@
 ---
 title: Aperture
-date: 2020-11-29
+date: 2020-11-20
 permalink: /aperture/
 categories: [Essays]
 
