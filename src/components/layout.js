@@ -60,7 +60,7 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Building products with love
+        © {new Date().getFullYear()}, Ari Akerstein
         {` `}
       </footer>
     </div>
