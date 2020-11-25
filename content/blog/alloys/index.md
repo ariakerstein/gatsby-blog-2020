@@ -6,7 +6,7 @@ categories: [Essays]
 
 ---
 TL;DR - 
-** A bit of humor breeds confidence
+** A bit of humor breeds confidence <br>
 ** Alloy it with a bit of anger to consume corrosive anxiety 
 
 I learned early on that anger doesn't help a situation. This was an early coping mechanism for a hard family life. I figured all that anger was wasted energy so I went inside - to books, ideas, building stuff. That always fit better and helped me not feel deep anger. So I felt better. 

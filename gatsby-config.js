@@ -5,7 +5,7 @@ module.exports = {
       name: `Ari Akerstein`,
       summary: ``
     },
-    description: `Meditations of a Product Manager`,
+    description: `Reflections of a Product Builder`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `ariakerstein`

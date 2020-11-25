@@ -6,11 +6,8 @@ categories: ["Chemolog"]
 
 ---
 
+I pass over a graveyard. If I had to guess I would say the overwhelming majority of bones beneath the stones had unfinished business - open loops.
 
-
-Avoiding open loops like too many tabs
-
-I pass over a graveyard. If I had to guess I would say the overwhelming majority of bones beneath the stones had unfinished business and open loops. What a gift to close off your open business before dying.</p>
 <p>Yom Kippur is the Jewish response to solving this issue and putting it on the calendar.</p>
 <p>March is about closing open loops of projects. Here’s one &#8211; the radio that’s sitting in my basement. We got 90% of the way done then put it aside and that was that. Now it’s collecting dust. That’s a small example.</p>
 <p>How do we select what the next item to pop on top of the queue should be? Sometimes it’s urgent. Sometimes it’s just a priority we’re finally getting to. Often times the best thing to do is just</p>
