@@ -64,9 +64,9 @@ module.exports = {
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `black`,
         display: `minimal-ui`,
-        icon: `content/assets/chemopic.jpg`
+        icon: `content/assets/ari-shaved.png`
       }
     },
     `gatsby-plugin-react-helmet`,

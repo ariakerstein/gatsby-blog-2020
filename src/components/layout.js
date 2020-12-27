@@ -19,7 +19,7 @@ const Layout = ({ location, title, children }) => {
         <Link
           style={{
             boxShadow: `none`,
-            color: `orangered`,
+            color: `black`,
           }}
           to={`/`}
         >
@@ -31,14 +31,14 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h3
         style={{
-          fontFamily: `Montserrat, sans-serif`,
+          fontFamily: `Helvetica`,
           marginTop: 0,
         }}
       >
         <Link
           style={{
             boxShadow: `none`,
-            color: `orangered`,
+            color: `black`,
           }}
           to={`/`}
         >
