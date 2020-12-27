@@ -13,10 +13,6 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: "gatsby-theme-blog",
-      options: {},
-    },
-    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
