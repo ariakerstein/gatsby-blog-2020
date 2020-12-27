@@ -2,11 +2,8 @@
 title: Superframes
 date: 2020-02-01
 permalink: /superframes/
-categories: ["product"]
-
+categories: [product]
 ---
-
-Superframes
 
 The magic of being a human is that we can slip on mental frames. I've come to think of them as super frames. For a given context 
 
